@@ -7,9 +7,12 @@ I'm a full stack developer
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://portfolio-puce-gamma-46.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/arpit-shukla-270231247)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArpitSh53514231)
+<a href="http://portfolio-puce-gamma-46.vercel.app/">Portfolio</a>
+<a href="https://in.linkedin.com/in/arpit-shukla-270231247"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"></a>
+<a href="https://twitter.com/ArpitSh53514231"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"></a>
+
+
+
 
 
 

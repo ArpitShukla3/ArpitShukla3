@@ -22,7 +22,7 @@ I'm a full stack developer
 
 
 ##  
-👩‍💻 I'm currently working on creating a full stack Exam project 
+👩‍💻 I'm currently working on integrating Open AI APIs in my Exam.io project
 
 🧠 I'm currently learning NextJS and Web RTC
 
